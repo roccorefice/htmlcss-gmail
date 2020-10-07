@@ -1,0 +1,43 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  background-image: url("https://ssl.gstatic.com/ui/v1/icons/mail/themes/desk/bg2_1920x1200.jpg");
+  padding: 20px 50px 0px;
+  }
+
+
+.white{
+  color: white;
+  font-size: 25px;
+}
+
+#special{
+  background-color: orange;
+  border-radius: 50%;
+}
+
+.sfondo{
+  width: auto;
+  background: lightgrey;
+  border: 1px solid black;
+}
+
+.grey{
+  color: grey;
+}
+
+.sfondospeciale{
+  background: white;
+  border: 1px solid black;
+}
+
+em{
+  color: white;
+}
+
+footer{
+  color: white;
+  text-align: center;
+}
