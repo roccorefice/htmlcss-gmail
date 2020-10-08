@@ -4,7 +4,20 @@
 
 body{
   background-image: url("https://ssl.gstatic.com/ui/v1/icons/mail/themes/desk/bg2_1920x1200.jpg");
-  padding: 20px 50px 0px;
+  padding: 20px 0px 0px;
+  width: 70%;
+  margin: auto;
+  }
+
+  .logo{
+    width: 100px;
+    line-height: 100px;
+    vertical-align: middle;
+  }
+
+  .logotxt{
+    display: inline-block;
+
   }
 
 
@@ -15,14 +28,9 @@ body{
 }
 
 #special{
-  background-color: orange;
+  background: orange;
+  padding: 10px;
   border-radius: 50%;
-  width: 40px;
-  height: 40px;
-  text-align: center;
-  display: inline-block;
-  vertical-align: middle;
-  line-height: 40px;
 }
 
 .sfondo{
